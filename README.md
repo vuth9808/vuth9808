@@ -1,6 +1,6 @@
 # 👨‍💻 To Hoang Vu — Front-end Developer
 
-📍 Ho Chi Minh City | 📧 tohoangvu161225@gmail.com | 🌐 [GitHub](https://github.com/vuth9808)
+📍 Ho Chi Minh City | 📧 tohoangvu161225@gmail.com 
 
 ---
 
@@ -21,10 +21,10 @@ I’m a front-end developer passionate about building modern, responsive web app
 - **[Rentify](https://rentify-2-4785.vercel.app/):** Real estate booking platform (Next.js + Spring Boot)  
   🔗 [Code](https://github.com/vuth9808/Rentify)
 
-- **[Airbnb Clone](https://capstone-cuoi-khoa-eto8.vercel.app/):** Hotel booking site with MOMO payment  
+- **[Airbnb](https://capstone-cuoi-khoa-eto8.vercel.app/):** Hotel booking site with MOMO payment  
   🔗 [Code](https://github.com/vuth9808/capstone-cuoi-khoa)
 
-- **[Ascent School](https://ascent2.vercel.app/):** Educational website for kindergartens  
+- **[Ascent](https://ascent2.vercel.app/):** Educational website for kindergartens  
   🔗 [Code](https://github.com/vuth9808/ascent2)
 
 ---
