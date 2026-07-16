@@ -3,19 +3,20 @@
 ### 💻 Software Developer
 
 📍 Ho Chi Minh City, Vietnam  
-📧 tohoangvu161225@gmail.com
+📧 **tohoangvu161225@gmail.com**
 
 ---
 
 ## 🚀 About Me
 
-I'm a Software Developer passionate about building full-stack web applications and AI-powered solutions.
+I'm a Software Developer passionate about building modern full-stack web applications and AI-powered solutions.
 
-- 💻 Experienced with React, Next.js, Node.js, Express.js, and PostgreSQL
-- 🤖 Integrated AI features using Google Gemini API
-- ☁️ Deployed cloud-native applications on Microsoft Azure
-- ⚙️ Automated deployments using GitHub Actions (CI/CD)
-- 🌱 Currently seeking Software Developer Internship / Fresher opportunities
+- 💻 Full-stack Development
+- 🤖 AI Integration with Google Gemini API
+- ☁️ Cloud Deployment on Microsoft Azure
+- ⚙️ CI/CD Automation using GitHub Actions
+
+Currently seeking **Software Developer Internship / Fresher** opportunities.
 
 ---
 
@@ -24,107 +25,40 @@ I'm a Software Developer passionate about building full-stack web applications a
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,java" />
+<img src="https://skillicons.dev/icons?i=js,ts,java"/>
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=vite" height="48"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,html,css"/>
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring"/>
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
 </p>
 
 ### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=azure,git,github,githubactions" />
+<img src="https://skillicons.dev/icons?i=azure,git,github,githubactions"/>
 </p>
 
 ### AI
 
 <p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" height="48"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" height="48"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=claude" height="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" height="45"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" height="45"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=claude" height="45"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 MiniChatGPT – AI Chat Application
-
-> Full-stack AI chatbot with JWT authentication, persistent chat history, Google Gemini API integration, and Microsoft Azure deployment.
-
-**Tech Stack**
-
-React • Vite • Node.js • Express • PostgreSQL • Azure • GitHub Actions
-
-🔗 Repository  
-https://github.com/vuth9808/MiniChatGPT_Main
-
-🌐 Live Demo  
-https://purple-grass-0b3fec600.7.azurestaticapps.net/
-
----
-
-### 🏨 Airbnb Booking Platform
-
-> Hotel booking platform with authentication, room reservation, review management, and MoMo Sandbox payment integration.
-
-**Tech Stack**
-
-Next.js • TypeScript • Tailwind CSS • Swagger
-
-🔗 Repository  
-https://github.com/vuth9808/Airbnb_Capstone
-
-🌐 Live Demo  
-https://capstone-cuoi-khoa-eto8.vercel.app/
-
----
-
-### 🏢 Rentify – Rental Management System
-
-> Rental platform connecting landlords and tenants with apartment management features.
-
-**Tech Stack**
-
-Next.js • TypeScript • Spring Boot • MySQL
-
-🔗 Repository  
-https://github.com/vuth9808/Rentify
-
-🌐 Live Demo  
-https://rentify-2-4785.vercel.app/
-
----
-
-### 🎓 Ascent – Education Landing Page
-
-> Responsive landing page introducing educational services.
-
-**Tech Stack**
-
-JavaScript • Tailwind CSS
-
-🔗 Repository  
-https://github.com/vuth9808/ascent2
-
-🌐 Live Demo  
-https://ascent2.vercel.app/
 
 ---
 
@@ -138,20 +72,95 @@ https://ascent2.vercel.app/
 
 </p>
 
-<p align="center">
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vuth9808&theme=transparent"/>
+# 🚀 Featured Projects
+
+## 🤖 MiniChatGPT
+
+Full-stack AI chatbot deployed on Microsoft Azure with Google Gemini API integration.
+
+<p>
+
+<a href="https://github.com/vuth9808/MiniChatGPT_Main">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://purple-grass-0b3fec600.7.azurestaticapps.net/">
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 </p>
 
+**Tech**
+
+React • Vite • Node.js • Express • PostgreSQL • Microsoft Azure • GitHub Actions • Google Gemini API
+
 ---
 
-## 🌱 Currently Learning
+## 🏨 Airbnb Booking Platform
 
-- Microsoft Azure
-- System Design
-- Docker
-- ASP.NET Core
+Hotel booking platform with authentication, room reservation and MoMo Sandbox payment integration.
+
+<p>
+
+<a href="https://github.com/vuth9808/Airbnb_Capstone">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://capstone-cuoi-khoa-eto8.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</p>
+
+**Tech**
+
+Next.js • TypeScript • Tailwind CSS • Swagger
+
+---
+
+## 🏢 Rentify
+
+Rental management platform connecting landlords with tenants.
+
+<p>
+
+<a href="https://github.com/vuth9808/Rentify">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://rentify-2-4785.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</p>
+
+**Tech**
+
+Next.js • TypeScript • Spring Boot • MySQL
+
+---
+
+## 🎓 Ascent
+
+Responsive landing page introducing educational services.
+
+<p>
+
+<a href="https://github.com/vuth9808/ascent2">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://ascent2.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</p>
+
+**Tech**
+
+JavaScript • Tailwind CSS
 
 ---
 
